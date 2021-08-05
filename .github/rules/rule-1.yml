@@ -8,7 +8,7 @@ conditions:
 event:
   type: issuesCreateComment
   params:
-    data: Let's play by the Rules... This is a Server Rule! ...from a 'special' place ;)
+    data: Let's play by the Rules... This is a Client Rule! ...from a 'special' place ;)
 
 # default is '1'
 priority: 1
